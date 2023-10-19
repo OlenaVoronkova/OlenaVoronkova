@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlenaVoronkova
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning QA
-- 🇺🇦 Glory to Ukraine
+- ⭐ Glory to Ukraine
 
 
 <!---
